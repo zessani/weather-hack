@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "weatherhack-99633"
+  },
+  "targets": {},
+  "etags": {
+    "weatherhack-99633": {
+      "extensionInstances": {
+        "firestore-translate-text": "e8c9dfe1ac7b1b3c0f610735e6e6fba4af63a8c0b9616f596c06d335be1ce40c"
+      }
+    }
+  }
+}
